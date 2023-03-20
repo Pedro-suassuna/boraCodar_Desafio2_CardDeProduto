@@ -14,8 +14,6 @@ Mobilie a sua casa de acordo com todos os seus gostos! 🛋️
   <a href="#-Progresso">Progresso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Conhecimentos-adquiridos">Conhecimentos adquiridos</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>
@@ -40,8 +38,8 @@ Mobilie a sua casa de acordo com todos os seus gostos! 🛋️
       <th>✅ FINALIZADO</th>
     </tr>
     <tr align="center">
-      <td>09/03/2023</td>
-      <td>09/03/2023</td>
+      <td>20/03/2023</td>
+      <td>20/03/2023</td>
     </tr>
   </table>
 </div>
@@ -56,23 +54,13 @@ Mobilie a sua casa de acordo com todos os seus gostos! 🛋️
 ## 🚀 Tecnologias
 
 - HTML5 e CSS3
+- JavaScript
 - Git e Github
 - Figma
 
 <br>
 
-## 🧠 Conhecimentos adquiridos
-
-<p align="justify">
-
-- <Strong>CSS:</strong>
-  <br/>
-
-</p>
-
-<br/>
-
-## 💻 Projeto
+## 💻 Deploy
 
 <p align="justify">
 
