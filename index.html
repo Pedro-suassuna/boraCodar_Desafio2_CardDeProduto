@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="animated">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@600&family=Lato:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
+    <title>Rocket Furnitures</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="product-image">
+        <button id="btn-360" onclick = "change ()">
+          <img
+            src="assets/360button.svg"
+            alt="Botão para dar animação de giro ao sofá."
+          />
+        </button>
+        <button id="btn-close" onclick = "change ()">
+          <img
+            src="assets/closeButton.svg"
+            alt="Botão para interromper a animação do sofá."
+          />
+        </button>
+        <img
+          id="static"
+          src="assets/sofa.jpg"
+          alt="Imagem de um sofá cor rosa claro."
+        />
+        <img
+          id="animated"
+          src="assets/sofa.gif"
+          alt="GIF do sofá em animação"
+        />
+      </div>
+
+      <div id="product-details">
+        <h4>CÓDIGO: 42404</h4>
+        <h1>Sofá Margot II - Rosé</h1>
+        <p>R$ 4.000</p>
+        <button>ADICIONAR À CESTA</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
